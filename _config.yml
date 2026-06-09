@@ -18,7 +18,8 @@ title: PL research # the main title
 
 tagline: A curated log of my deep dive into Programming Languages research # it will display as the subtitle
 
-description: >- PL Research logs # used by seo meta and the atom feed
+description: >-
+  PL Research logs # used by seo meta and the atom feed
   
 
 # Fill in the protocol & hostname for your site.
